@@ -1,0 +1,10 @@
+C:\Users\FarhadJelve\source\repos\Lottery Generator\bin\Debug\Lottery Generator.exe.config
+C:\Users\FarhadJelve\source\repos\Lottery Generator\bin\Debug\Lottery Generator.exe
+C:\Users\FarhadJelve\source\repos\Lottery Generator\bin\Debug\Lottery Generator.pdb
+C:\Users\FarhadJelve\source\repos\Lottery Generator\obj\Debug\Lottery Generator.csprojAssemblyReference.cache
+C:\Users\FarhadJelve\source\repos\Lottery Generator\obj\Debug\Lottery_Generator.Form1.resources
+C:\Users\FarhadJelve\source\repos\Lottery Generator\obj\Debug\Lottery_Generator.Properties.Resources.resources
+C:\Users\FarhadJelve\source\repos\Lottery Generator\obj\Debug\Lottery Generator.csproj.GenerateResource.cache
+C:\Users\FarhadJelve\source\repos\Lottery Generator\obj\Debug\Lottery Generator.csproj.CoreCompileInputs.cache
+C:\Users\FarhadJelve\source\repos\Lottery Generator\obj\Debug\Lottery Generator.exe
+C:\Users\FarhadJelve\source\repos\Lottery Generator\obj\Debug\Lottery Generator.pdb
